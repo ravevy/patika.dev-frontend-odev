@@ -1,9 +1,12 @@
 # Kodluyoruz İlk Repo
 Bu repo Kodluyoruz Frond-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası ve bir adet de index.html barındırıyor.
+![proje resmi](adsız.png)
 
 # Installation
 Öncelikle projeyi clonelayın. 
-`git clone https://github.com/ravevy/patika.dev-frontend-odev`
+```
+git clone https://github.com/ravevy/patika.dev-frontend-odev
+```
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
