@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 Bu repo Kodluyoruz Frond-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası ve bir adet de index.html barındırıyor.
-![proje resmi](Adsız.png)
+![proje resmi](projegoruntusu.png)
 
 # Installation
 Öncelikle projeyi clonelayın. 
