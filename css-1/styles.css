@@ -1,0 +1,62 @@
+body{
+  background-color: #EEEEEE;
+  font-family: "Noto Sans", sans-serif;
+}
+h1{
+  font-family: "Raleway", sans-serif;
+}
+.head{
+  color: #85C88A ;
+  margin: 1rem 0;
+  text-shadow: 1px 1px 1px #85C88A;
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 1px 1px;
+}
+.head-two{
+  color: #6FB2D2 ;
+  font-weight: 500 bold;
+  margin: 1rem 0;
+  font-size: 1.5rem;
+  
+}
+#nav{
+  padding: 1rem
+}
+#nav a{
+  background-color: #EBD671;
+  border: 0.16rem;
+  width: 6rem;
+  border-radius: 8%;
+  padding: 0.5rem 1rem;
+  margin: 0 0.3rem;
+  text-decoration: none;
+  color: #263928;
+}
+.arabaşlık{
+  color: #6FB2D2;
+  font-weight: bold;
+}
+#list{
+  list-style: none;
+  padding-inline-start: 0;
+}
+li img{
+  height: 300px;
+}
+#ürünler{
+  list-style-position: inside;
+  padding-inline-start: 0;
+  padding: 0 3rem;
+}
+
+ol div{
+  width: 200px;
+  display: inline-flex;
+  padding: 1rem;
+  margin: 2rem;
+}
+
+.ortalama{
+  padding: 0 20%;
+}
