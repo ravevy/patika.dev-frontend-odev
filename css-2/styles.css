@@ -1,0 +1,38 @@
+body{
+  text-align: center;
+  align-items: center;
+}
+#search{
+  background-color: rgb(235, 235, 235);
+}
+#search input{
+  width: 40%;
+}
+.outer{
+  display: flex;
+  width: 100%;
+  height: 100px;
+}
+.categories{
+  padding: 0.5rem 1px;
+  margin: 1.5px;
+}
+.sol{
+  width: 35%;
+  background-color: #7EE5DA;
+}
+.orta{
+  width: 25%;
+  background-color: #70CCC2;
+}
+.sağ{
+  width: 40%;
+  background-color: #62B3AA;
+}
+p{
+  margin: 0;
+}
+footer{
+  font-size: 90%;
+  margin: 1rem;
+}
