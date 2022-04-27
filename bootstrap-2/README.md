@@ -1,0 +1,1 @@
+# Instagram klonundaki hataların düzeltilmesi ödevi
