@@ -1,0 +1,24 @@
+body {
+  background-color: #242424;
+  color: white;
+  font-family: "Roboto Flex";
+  font-weight: 200;
+}
+p{
+  font-size: 1rem;
+}
+h1{
+  font-family: "Roboto";
+  font-weight: 900;
+}
+.unvisible{
+  visibility: hidden;
+}
+.visible{
+  visibility: visible;
+}
+#root{
+  margin: 10% 20%;
+  text-align: center;    
+}
+
