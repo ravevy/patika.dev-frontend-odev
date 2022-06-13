@@ -91,6 +91,8 @@ button.innerHTML = buttonNames.map((item)=>{return `<button class="btn btn-outli
 
 button.addEventListener("click", function(event){
 let category = event.srcElement.id;
+
+if(event.srcElement.localName == "button"){
 if(category == "All"){
   menuMak(menu)
 }
@@ -100,7 +102,7 @@ else if(buttonNames.filter(item => item == category)){
       return item
     }})
   menuMak(newMenu)}
-})
+}})
 
 function menuMak(menuList){
 section.innerHTML = menuList.map((item)=>{return `<div class="menu-items col-lg-6 col-sm-12"><img src="${item.img}" alt="${item.title}" class="photo"/><div class="menu-info"><div class="menu-title"><h4>${item.title}</h4><h4 class="price">${item.price}</h4></div><div class="menu-text">${item.desc}</div></div></div>`}).join("")
