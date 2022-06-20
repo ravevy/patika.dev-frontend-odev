@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node": "^18.4.0"
+  }
+}
