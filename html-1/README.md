@@ -1,4 +1,4 @@
 # İlk Web Sayfa Oluşturma Ödevi
 ## Site görünümü
 
-![site görünümü](site-gorunumu.png)
+Canlı [link](https://ravevy.github.io/patika.dev-frontend-odev/html-1/)

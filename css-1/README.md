@@ -1,3 +1,3 @@
 # CSS ile renklendirilmiş Basit bir website
 ## Site Görünümü
-![site görünümü](site-gorunumu.png)
+Canlı [link]](https://ravevy.github.io/patika.dev-frontend-odev/css-1/)

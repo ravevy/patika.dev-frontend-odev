@@ -1,3 +1,3 @@
 # Geliştirilmiş Websitesi
 ## Site Görünümü
-![site görünümü](site-gorunumu.png)
+Canlı [link](https://ravevy.github.io/patika.dev-frontend-odev/html-2/)

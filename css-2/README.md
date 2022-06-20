@@ -1,4 +1,4 @@
 # Google 1998 clone
 Sadece tasarım klonu yapılan bir egzersiz.
-### Sonuç görüntü:
-![site goruntusu](site-goruntusu.png)
+
+Canlı [link]](https://ravevy.github.io/patika.dev-frontend-odev/css-2/)
